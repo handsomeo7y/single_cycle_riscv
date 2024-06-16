@@ -1,0 +1,1 @@
+这是使用verilog构建的single_cycle_riscv核，压缩包中包含一整个vivado（2019.2）工程，打开之后之间仿真即可。
