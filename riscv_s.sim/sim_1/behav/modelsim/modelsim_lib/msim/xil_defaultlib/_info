@@ -1,0 +1,382 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/eda/riscv/single-cycle_processor/riscv_s/riscv_s.sim/sim_1/behav/modelsim
+vadder
+!s10a 1718421494
+Z1 !s110 1718454850
+!i10b 1
+!s100 VYcXQkMVBQ:D[VYT3<:L]0
+Ib]f8bjO714ek=FmSS0z161
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1718421494
+8../../../../riscv_s.srcs/sources_1/new/adder.v
+F../../../../riscv_s.srcs/sources_1/new/adder.v
+L0 1
+Z3 OL;L;10.5;63
+r1
+!s85 0
+31
+Z4 !s108 1718454850.000000
+Z5 !s107 ../../../../riscv_s.srcs/sim_1/new/testbanch.v|../../../../riscv_s.srcs/sources_1/new/riscv_top.v|../../../../riscv_s.srcs/sources_1/new/riscv_single.v|../../../../riscv_s.srcs/sources_1/new/regfile.v|../../../../riscv_s.srcs/sources_1/new/mux3.v|../../../../riscv_s.srcs/sources_1/new/mux2.v|../../../../riscv_s.srcs/sources_1/new/maindec.v|../../../../riscv_s.srcs/sources_1/new/imem.v|../../../../riscv_s.srcs/sources_1/new/flopr.v|../../../../riscv_s.srcs/sources_1/new/extend.v|../../../../riscv_s.srcs/sources_1/new/dmem.v|../../../../riscv_s.srcs/sources_1/new/datapath.v|../../../../riscv_s.srcs/sources_1/new/controller.v|../../../../riscv_s.srcs/sources_1/new/aludec.v|../../../../riscv_s.srcs/sources_1/new/alu.v|../../../../riscv_s.srcs/sources_1/new/adder.v|
+Z6 !s90 -64|-incr|-work|xil_defaultlib|../../../../riscv_s.srcs/sources_1/new/adder.v|../../../../riscv_s.srcs/sources_1/new/alu.v|../../../../riscv_s.srcs/sources_1/new/aludec.v|../../../../riscv_s.srcs/sources_1/new/controller.v|../../../../riscv_s.srcs/sources_1/new/datapath.v|../../../../riscv_s.srcs/sources_1/new/dmem.v|../../../../riscv_s.srcs/sources_1/new/extend.v|../../../../riscv_s.srcs/sources_1/new/flopr.v|../../../../riscv_s.srcs/sources_1/new/imem.v|../../../../riscv_s.srcs/sources_1/new/maindec.v|../../../../riscv_s.srcs/sources_1/new/mux2.v|../../../../riscv_s.srcs/sources_1/new/mux3.v|../../../../riscv_s.srcs/sources_1/new/regfile.v|../../../../riscv_s.srcs/sources_1/new/riscv_single.v|../../../../riscv_s.srcs/sources_1/new/riscv_top.v|../../../../riscv_s.srcs/sim_1/new/testbanch.v|
+!i113 1
+Z7 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+valu
+!s10a 1718505597
+!s110 1718505618
+!i10b 1
+!s100 iERkRmiPJU7czbN:R8S0;2
+Im^8m[azkJYamk1kJT6kHR1
+R2
+R0
+w1718505597
+8../../../../riscv_s.srcs/sources_1/new/alu.v
+F../../../../riscv_s.srcs/sources_1/new/alu.v
+Z9 L0 23
+R3
+r1
+!s85 0
+31
+!s108 1718505618.000000
+R5
+R6
+!i113 1
+R7
+R8
+valudec
+!s10a 1718448580
+R1
+!i10b 1
+!s100 :KnKVb=2@3GX>::oBUh][3
+IWKS`oUbEfb>:Z@F152Qo90
+R2
+R0
+w1718448580
+8../../../../riscv_s.srcs/sources_1/new/aludec.v
+F../../../../riscv_s.srcs/sources_1/new/aludec.v
+L0 22
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vcontroller
+!s10a 1718458892
+!s110 1718458927
+!i10b 1
+!s100 ;REn451K__kcc[Pe0jGmF1
+Im?QoYCF6C[om7DhB@gd]Y2
+R2
+R0
+w1718458892
+8../../../../riscv_s.srcs/sources_1/new/controller.v
+F../../../../riscv_s.srcs/sources_1/new/controller.v
+R9
+R3
+r1
+!s85 0
+31
+!s108 1718458927.000000
+R5
+R6
+!i113 1
+R7
+R8
+vdatapath
+Z10 !s110 1718506420
+!i10b 1
+!s100 N2NNH3[lFZ7XA6FN46QRJ3
+IV;QehcC5g@M7^z;HNR_h<3
+R2
+R0
+w1718506405
+8../../../../riscv_s.srcs/sources_1/new/datapath.v
+F../../../../riscv_s.srcs/sources_1/new/datapath.v
+R9
+R3
+r1
+!s85 0
+31
+Z11 !s108 1718506420.000000
+R5
+R6
+!i113 1
+R7
+R8
+vdmem
+!s10a 1718454028
+R1
+!i10b 1
+!s100 4R]jahbF;Cd4id6bAmdaa3
+IE:Mo_Z=Am7Y`jHgLhBQ4_2
+R2
+R0
+w1718454028
+8../../../../riscv_s.srcs/sources_1/new/dmem.v
+F../../../../riscv_s.srcs/sources_1/new/dmem.v
+R9
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vextend
+!s10a 1718445565
+R1
+!i10b 1
+!s100 7o0lBa6N=O:R^V>c?EB1j2
+II8FELm:SSG;<gEbJ?=CYh1
+R2
+R0
+w1718445565
+8../../../../riscv_s.srcs/sources_1/new/extend.v
+F../../../../riscv_s.srcs/sources_1/new/extend.v
+R9
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vflopr
+!s10a 1718422273
+R1
+!i10b 1
+!s100 n2lE@SBm[:J5kG5ZWoWG]3
+I37IOb9ll5fcLcm_I8hIKR1
+R2
+R0
+w1718422273
+8../../../../riscv_s.srcs/sources_1/new/flopr.v
+F../../../../riscv_s.srcs/sources_1/new/flopr.v
+R9
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vglbl
+R10
+!i10b 1
+!s100 JWZ^meD<P7inSF0<1SiO32
+IAl?5;D^:bf?I5A^M>WzmU1
+R2
+R0
+w1573089660
+8glbl.v
+Fglbl.v
+L0 6
+R3
+r1
+!s85 0
+31
+R11
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 1
+R7
+R8
+vimem
+!s10a 1718460914
+!s110 1718460922
+!i10b 1
+!s100 M<HzVfAM2:ZY5ZjTD`2>d2
+I8jXQ78UOMoZ@?i^[HEejD1
+R2
+R0
+w1718460914
+8../../../../riscv_s.srcs/sources_1/new/imem.v
+F../../../../riscv_s.srcs/sources_1/new/imem.v
+R9
+R3
+r1
+!s85 0
+31
+!s108 1718460922.000000
+R5
+R6
+!i113 1
+R7
+R8
+vmaindec
+!s10a 1718448257
+R1
+!i10b 1
+!s100 :F8RWK^H[V84NcgN9^Xhf3
+IYHdI6;C6gSB]kQC>kM3e33
+R2
+R0
+w1718448257
+8../../../../riscv_s.srcs/sources_1/new/maindec.v
+F../../../../riscv_s.srcs/sources_1/new/maindec.v
+R9
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vmux2
+!s10a 1718422009
+R1
+!i10b 1
+!s100 GFHOQaT=]a?E4MaIGB0gY0
+IPlTOAZ;`TjHMMl6OQh=_n0
+R2
+R0
+w1718422009
+8../../../../riscv_s.srcs/sources_1/new/mux2.v
+F../../../../riscv_s.srcs/sources_1/new/mux2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vmux3
+!s10a 1718445712
+R1
+!i10b 1
+!s100 6=d6WDER91m3>`PhVFQ7m0
+IMKzhRj<ZH^C3z0onYRoiQ2
+R2
+R0
+w1718445712
+8../../../../riscv_s.srcs/sources_1/new/mux3.v
+F../../../../riscv_s.srcs/sources_1/new/mux3.v
+R9
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vregfile
+!s10a 1718459362
+!s110 1718459372
+!i10b 1
+!s100 mQdo0No?AjG?XHLQVb>Jd0
+I@G7ZI3YSg`PNXW7Wm7e4I3
+R2
+R0
+w1718459362
+8../../../../riscv_s.srcs/sources_1/new/regfile.v
+F../../../../riscv_s.srcs/sources_1/new/regfile.v
+R9
+R3
+r1
+!s85 0
+31
+!s108 1718459372.000000
+R5
+R6
+!i113 1
+R7
+R8
+vriscv_single
+!s10a 1718458066
+Z12 !s110 1718458093
+!i10b 1
+!s100 aWZPVB8W<>^AdILVh=ZM;0
+IimEYV9E@7WPN@1zUX8b5O0
+R2
+R0
+w1718458066
+8../../../../riscv_s.srcs/sources_1/new/riscv_single.v
+F../../../../riscv_s.srcs/sources_1/new/riscv_single.v
+R9
+R3
+r1
+!s85 0
+31
+Z13 !s108 1718458093.000000
+R5
+R6
+!i113 1
+R7
+R8
+vriscv_top
+!s10a 1718457799
+R12
+!i10b 1
+!s100 c_@DhG7@jUR`FoRd^SCLa3
+I`2TRI`03loDb[oaG5N;Bc0
+R2
+R0
+w1718457799
+8../../../../riscv_s.srcs/sources_1/new/riscv_top.v
+F../../../../riscv_s.srcs/sources_1/new/riscv_top.v
+R9
+R3
+r1
+!s85 0
+31
+R13
+R5
+R6
+!i113 1
+R7
+R8
+vtestbench
+!s10a 1718459678
+!s110 1718459686
+!i10b 1
+!s100 ;;Bi1Taza23:mEll]CYQ53
+IBDV6NS2m50ACDH3Jgej9B2
+R2
+R0
+w1718459678
+8../../../../riscv_s.srcs/sim_1/new/testbanch.v
+F../../../../riscv_s.srcs/sim_1/new/testbanch.v
+R9
+R3
+r1
+!s85 0
+31
+!s108 1718459685.000000
+R5
+R6
+!i113 1
+R7
+R8
